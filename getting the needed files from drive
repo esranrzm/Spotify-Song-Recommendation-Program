@@ -1,0 +1,4 @@
+from google.colab import drive
+drive.mount("./drive", force_remount=True)
+
+path_prefix = "./drive/My Drive/proje"
